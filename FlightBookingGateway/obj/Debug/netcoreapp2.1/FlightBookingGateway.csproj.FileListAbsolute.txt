@@ -1,0 +1,17 @@
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\configuration.json
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\FlightBookingGateway.deps.json
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\FlightBookingGateway.runtimeconfig.json
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\FlightBookingGateway.runtimeconfig.dev.json
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\FlightBookingGateway.dll
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\bin\Debug\netcoreapp2.1\FlightBookingGateway.pdb
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.csproj.AssemblyReference.cache
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.AssemblyInfoInputs.cache
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.AssemblyInfo.cs
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.csproj.CoreCompileInputs.cache
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.RazorAssemblyInfo.cache
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.RazorAssemblyInfo.cs
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.RazorTargetAssemblyInfo.cache
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.dll
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.pdb
+D:\FlightBooking\FlightBookingGateway\FlightBookingGateway\obj\Debug\netcoreapp2.1\FlightBookingGateway.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\FlightBooking\FlightBookingGateway\SharedServices\bin\Debug\netcoreapp2.1\SharedServices.deps.json
+D:\FlightBooking\FlightBookingGateway\SharedServices\bin\Debug\netcoreapp2.1\SharedServices.runtimeconfig.json
+D:\FlightBooking\FlightBookingGateway\SharedServices\bin\Debug\netcoreapp2.1\SharedServices.runtimeconfig.dev.json
+D:\FlightBooking\FlightBookingGateway\SharedServices\bin\Debug\netcoreapp2.1\SharedServices.dll
+D:\FlightBooking\FlightBookingGateway\SharedServices\bin\Debug\netcoreapp2.1\SharedServices.pdb
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.csproj.AssemblyReference.cache
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.AssemblyInfoInputs.cache
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.AssemblyInfo.cs
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.csproj.CoreCompileInputs.cache
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.dll
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.pdb
+D:\FlightBooking\FlightBookingGateway\SharedServices\obj\Debug\netcoreapp2.1\SharedServices.genruntimeconfig.cache

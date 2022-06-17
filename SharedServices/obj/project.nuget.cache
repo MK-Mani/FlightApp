@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pmnid+lq3rsVkxnMoAoXd8six7ZwB64yRn+DJ0nHv5alJzg3l9a3q3dIK9xGyGP+SNrbuQ9DrAPBOj3nzvyiJA==",
+  "success": true,
+  "projectFilePath": "D:\\FlightBooking\\FlightBookingGateway\\SharedServices\\SharedServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\cogdotnet495\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

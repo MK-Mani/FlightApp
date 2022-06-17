@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Remove="Models\Producer.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="wwwroot\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.7" />
+		<!--<PackageReference Include="RabbitMQ.Client" Version="6.3.1" />-->
+		<!--<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />-->
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\SharedServices\SharedServices.csproj" />
+	</ItemGroup>
+
+</Project>
